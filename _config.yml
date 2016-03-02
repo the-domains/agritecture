@@ -2,6 +2,7 @@ name: 'agritecture '
 favicon: null
 layout_spectrum: 0.8715689016971737
 typography_spectrum: 0.345503504620865
+title: AGRITECTURE
 cta:
   domain: null
   bucket: null

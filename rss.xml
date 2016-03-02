@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[agritecture ]]></title>
+        <description><![CDATA[agritecture ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 02 Mar 2016 19:23:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CEA WILL PLAY A ROLE IN THE FUTURE OF FOOD IN NEW ZEALAND ]]></title>
+            <description><![CDATA[<article><h1>CEA WILL PLAY A ROLE IN THE FUTURE OF FOOD IN NEW ZEALAND </h1><p>New Zealand’s traditional leadership in agriculture is due to our land, climate, hard work and invention from generations of farmers, and our universities and business that have supported them with increasingly valuable technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/566380b04e1dc2352bdca9d48f48849ef99127c2.jpg"></article>]]></description>
+            <link>undefinedcea-will-play-a-role-in-the-future-of-food-in-new-zealand/index.html</link>
+            <guid isPermaLink="false">4901641f-e824-4802-ba44-541285bff4c0</guid>
+            <pubDate>Wed, 02 Mar 2016 19:23:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

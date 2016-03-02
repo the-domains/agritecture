@@ -1,0 +1,28 @@
+name: 'agritecture '
+favicon: null
+layout_spectrum: 0.8715689016971737
+typography_spectrum: 0.345503504620865
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.37269206973724067
+  lightness: 0.09010606072843075
+  saturation: 0.5587761723436415
+  rhythmicContrast: 0.2757725806441158
+purpose: []
